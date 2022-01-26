@@ -1,2 +1,2 @@
-# test_git_repo
-test git repository
+# The first git repository for test
+This is a test repo
